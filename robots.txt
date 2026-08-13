@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-sutt5a.koi888.cfd/sitemap.xml
